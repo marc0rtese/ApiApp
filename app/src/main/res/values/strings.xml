@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ApiAppV2</string>
+    <string name="btn_share">Поделиться</string>
+    <string name="btn_generate">Сгенерировать</string>
+    <string name="history">История</string>
+    <string name="save">Сохранить</string>
+    <string name="edittxt">Put URL</string>
+
+    <string-array name="url">
+        <item>vk.com</item>
+        <item>ok.com</item>
+
+
+    </string-array>
+</resources>
